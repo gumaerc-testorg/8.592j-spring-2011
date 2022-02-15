@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 title: Polymer Theory 1, Entropy Elasticity, Collapse
 uid: db9b5036-eb22-c254-3eca-3983db7f4d70
@@ -9,7 +13,7 @@ uid: db9b5036-eb22-c254-3eca-3983db7f4d70
 1.  Polymers are long covalently bonded macromolecules, with N>>1 monomers
     *   Biological polymers: Polynucleotides, polypeptides, polysaccharides
     *   Homopolymers, heteropolymers
-    *   Artificial polymers, e.g (-CHH-)N
+    *   Artificial polymers, e.g (-CHH-){{< sub "N" >}}
 2.  How straight is a polymer?
     *   Thermal excitation of rotational isomores
     *   Bending rigidity and Persistence length

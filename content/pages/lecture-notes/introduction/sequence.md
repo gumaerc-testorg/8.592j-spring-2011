@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Introduction; Master Equation
+parent_type: CourseSection
 parent_uid: 216ac03d-978d-1d2c-7137-b2b2dc3217ca
 title: Sequence Information & Evolution
 uid: a9fa2cd4-689d-e1d6-7214-cb040f22e69d
