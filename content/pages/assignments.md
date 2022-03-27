@@ -27,7 +27,7 @@ RELATED FILES
 {{< tdopen >}}
 
 
-The .fna file below contains the nucleic acid sequence of _E. coli_ in the FASTA format. A sequence in FASTA format begins with a single-line description, followed by lines of sequence data. The description line is distinguished from the sequence data by a greater-than (">") symbol in the first column. ([FNA - 4.5 MB](./resolveuid/77177281caa9fedfeb5d8fdbfb33167d))
+The .fna file below contains the nucleic acid sequence of _E. coli_ in the FASTA format. A sequence in FASTA format begins with a single-line description, followed by lines of sequence data. The description line is distinguished from the sequence data by a greater-than (">") symbol in the first column. ([FNA - 4.5 MB]({{< baseurl >}}/resources/u00096))
 
 [cSNPsAfricanEuropean (DAT)]({{< baseurl >}}/resources/csnpsafricaneuropean)
 
@@ -73,9 +73,9 @@ Altschul, S.F., et al. “[Gapped BLAST and PSI-BLAST: a new generation of prote
 [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit8_592js11_ps5)
 {{< tdclose >}}
 {{< tdopen >}}
-[1TEN.PDB (PDB)](./resolveuid/be753c37addf2c9f5815b8cd93e7146e)  
-[2EBN.PDB (PDB)](./resolveuid/f25f971b34b52db0f65f86a607197a30)  
-[4HHB\_A.PDB (PDB)](./resolveuid/4cf3c60d4f4c6d84dd40063a8e36c49a)  
+[1TEN.PDB (PDB)]({{< baseurl >}}/resources/1ten)  
+[2EBN.PDB (PDB)]({{< baseurl >}}/resources/2ebn)  
+[4HHB\_A.PDB (PDB)]({{< baseurl >}}/resources/4hhb_a)  
   
 Miyazawa, Sanzo, and Robert L. Jernigan (MJ). "[Residue–Residue Potentials with a Favorable Contact Pair Term and an Unfavorable High Packing Density Term, for Simulation and Threading.](http://www.ncbi.nlm.nih.gov/pubmed/8604144)" _J. Mol Biol._ 256, no. 3 (1996): 623-44.  
   
@@ -112,8 +112,8 @@ Smith, S.B., et al. "[Overstretching B-DNA: The Elastic Response of Individual D
 [Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit8_592js11_ps8)
 {{< tdclose >}}
 {{< tdopen >}}
-[purR\_sites (TXT)](./resolveuid/2eee1a5b6186d3dd45af4ea4c64b945c)  
-[gene\_table (TXT)](./resolveuid/da6c586bd51ffafd142613ecf0adcd2a)
+[purR\_sites (TXT)]({{< baseurl >}}/resources/purr_sites)  
+[gene\_table (TXT)]({{< baseurl >}}/resources/gene_table)
 {{< tdclose >}}
 
 {{< trclose >}}

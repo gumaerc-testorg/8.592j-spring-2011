@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: da217913-9c1d-a5a4-a85b-2a9e4517b660
 resourcetype: Document
 title: mj_table3.pdf
 uid: 1b821d36-380d-4de6-f227-0eb875336417

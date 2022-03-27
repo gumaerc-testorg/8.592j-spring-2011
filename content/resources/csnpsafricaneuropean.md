@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: da217913-9c1d-a5a4-a85b-2a9e4517b660
 resourcetype: Other
 title: cSNPsAfricanEuropean.dat
 uid: eaf7a7e8-9f3a-8daf-6220-5779d08ef598
