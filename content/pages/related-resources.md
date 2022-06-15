@@ -1,9 +1,13 @@
 ---
 content_type: page
+description: This section provides links to related resources that provide background
+  and useful information on biology, bioinformatics, and biophysics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 4e3894da-0b55-4161-cca4-085ebd2b2019
+video_metadata:
+  youtube_id: null
 ---
 
 There are many excellent resources on the Web; the following links provide background and useful information:

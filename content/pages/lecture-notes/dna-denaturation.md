@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a lecture outline on DNA melting with links to
+  related materials.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: CourseSection
 parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 title: DNA (Melting)
 uid: 95e8c805-a886-c369-5df4-e57e7a7507f8
+video_metadata:
+  youtube_id: null
 ---
 
 1.  [Macroscopic properties of DNA](http://online.itp.ucsb.edu/online/infobio01/bundschuh1/oh/102.html); [packaging into chromatin](http://online.itp.ucsb.edu/online/infobio01/stormo/oh/10.html) (eukaryotes)
@@ -20,4 +24,4 @@ uid: 95e8c805-a886-c369-5df4-e57e7a7507f8
 
 *   [Meltsim](http://bioinformatics.org/meltsim/) is a package to calculate melting temperature of specified DNA sequences.
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec16))
+({{% resource_link "0df04225-a5ce-78fa-a6d5-3d8a3167c3ea" "Detailed Lecture Notes (PDF)" %}})

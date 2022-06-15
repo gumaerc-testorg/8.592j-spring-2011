@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a lecture outline on polymer theory, entropy elasticity,
+  and collapse, with detailed lecture notes and links to related materials.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: CourseSection
 parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 title: Polymer Theory 1, Entropy Elasticity, Collapse
 uid: db9b5036-eb22-c254-3eca-3983db7f4d70
+video_metadata:
+  youtube_id: null
 ---
 
 1.  Polymers are long covalently bonded macromolecules, with N>>1 monomers
@@ -25,4 +29,4 @@ uid: db9b5036-eb22-c254-3eca-3983db7f4d70
     *   Mean-field estimate of the partition function
     *   [Applet for self-avoiding walks](http://polymer.bu.edu/java/java/saw/sawapplet.html)
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec10))
+({{% resource_link "afed9fbb-5156-284a-9700-9a780f56a8a2" "Detailed Lecture Notes (PDF)" %}})

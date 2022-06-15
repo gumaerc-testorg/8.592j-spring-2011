@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Software commands necessary for completing Assignment #5.'
-file: /media/courses/8-592j-statistical-physics-in-biology-spring-2011/4cf3c60d4f4c6d84dd40063a8e36c49a_4HHB_A.PDB
+file: /courses/8-592j-statistical-physics-in-biology-spring-2011/4cf3c60d4f4c6d84dd40063a8e36c49a_4HHB_A.PDB
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: 4HHB_A.PDB
 uid: 4cf3c60d-4f4c-6d84-dd40-063a8e36c49a
 ---
+Software commands necessary for completing Assignment #5.
+

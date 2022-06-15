@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a lecture outline on ionic interactions with links
+  to related materials and detailed lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: CourseSection
 parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 title: Ionic Interactions
 uid: 9f3a0f52-9505-a794-5007-ab0cbf34d67e
+video_metadata:
+  youtube_id: null
 ---
 
 1.  Ionic solutions:
@@ -38,4 +42,4 @@ Some Related Links
 *   On [DNA elasticity](http://dept.physics.upenn.edu/%7Epcn/mcgraw2/mcglatex.html); [Philip Nelson](http://www.physics.upenn.edu/%7Epcn/) at UPenn.
 *   [The residual potential](http://web.mit.edu/tidor/www/residual/index.html); [Bruce Tidor](http://web.mit.edu/tidor/www/index.html) at MIT.
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec9))
+({{% resource_link "fe187ed9-8a8d-727f-d3bc-502e44038836" "Detailed Lecture Notes (PDF)" %}})

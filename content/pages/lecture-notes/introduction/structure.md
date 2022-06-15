@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a lecture outline with links to related materials
+  on macromolecular structure.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Introduction; Master Equation
@@ -7,6 +9,8 @@ parent_type: CourseSection
 parent_uid: 216ac03d-978d-1d2c-7137-b2b2dc3217ca
 title: Macromolecular Structure
 uid: 06996f09-b9fb-93f7-dfcb-f3eb09bbac1e
+video_metadata:
+  youtube_id: null
 ---
 
 1.  Introduction to polymers:
@@ -38,4 +42,4 @@ uid: 06996f09-b9fb-93f7-dfcb-f3eb09bbac1e
     *   Borg-von Hippel, wight matrices (profiles), information content
     *   [Large scale packaging of DNA](http://online.itp.ucsb.edu/online/infobio01/stormo/oh/10.html); histones, heterochromatin, …
 
-[Back]({{< baseurl >}}/pages/lecture-notes/introduction)
+{{% resource_link 216ac03d-978d-1d2c-7137-b2b2dc3217ca "Back" %}}

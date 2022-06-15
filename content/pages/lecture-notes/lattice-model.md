@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a lecture outline on protein folding and kinetics
+  with links to related materials.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: CourseSection
 parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 title: 'Protein Folding 3: Kinetics'
 uid: 44afb2ed-6a46-a832-1674-ba0df0674ddb
+video_metadata:
+  youtube_id: null
 ---
 
 1.  Review of protein structure

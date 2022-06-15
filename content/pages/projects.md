@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides guidelines and suggest topics for the final project
+  of the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: cf372e43-15fa-d161-24db-e9d4a1b81817
+video_metadata:
+  youtube_id: null
 ---
 
 Final Project Guidelines

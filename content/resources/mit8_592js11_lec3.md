@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-592j-statistical-physics-in-biology-spring-2011/5253e8ec9c66924411294ebb8e85e951_MIT8_592JS11_lec3.pdf
+file: /courses/8-592j-statistical-physics-in-biology-spring-2011/5253e8ec9c66924411294ebb8e85e951_MIT8_592JS11_lec3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,6 @@ parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 resourcetype: Document
 title: Lecture 3
 uid: 5253e8ec-9c66-9244-1129-4ebb8e85e951
+video_metadata:
+  youtube_id: null
 ---

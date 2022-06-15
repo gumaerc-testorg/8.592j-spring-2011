@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a lecture outline on microtubules with links to
+  related materials and detailed lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: CourseSection
 parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 title: Microtubules
 uid: a0b275ba-106e-9e24-d4e0-873864ef081f
+video_metadata:
+  youtube_id: null
 ---
 
 1.  Filaments in the cycloskeleton; Major types:
@@ -36,4 +40,4 @@ Some Related Links
 *   Microtubule links
 *   [Nanosimulation of the cytoskeleton](http://www.pegacat.com/cbetts/phd/index.html) (a PhD thesis by Christopher Betts)
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec20))
+({{% resource_link "6962db28-108e-a1b4-7ad7-c2a902afb6d0" "Detailed Lecture Notes (PDF)" %}})

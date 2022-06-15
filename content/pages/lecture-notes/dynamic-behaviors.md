@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a lecture outline on dynamics on biological networks
+  with links to related materials and detailed lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: CourseSection
 parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 title: Dynamics on Networks 1
 uid: 2d5305f4-1043-94ea-ef0d-ac0d75de42aa
+video_metadata:
+  youtube_id: null
 ---
 
 1.  Dynamics on networks:
@@ -51,4 +55,4 @@ Some Related Links
 *   Elowitz, MB, and S. Leibler. "[A synthetic oscillatory network of transcriptional regulators](http://www.ncbi.nlm.nih.gov/pubmed/10659856)." _Nature_ 403 (2000): 335-8.
 *   [Firefly (flash synchrony)](http://ccl.northwestern.edu/cm/models/firefly/)
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec23))
+({{% resource_link "dae446fe-1f4f-db1e-f014-e56f1db4dd9b" "Detailed Lecture Notes (PDF)" %}})

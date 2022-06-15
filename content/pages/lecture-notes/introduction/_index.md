@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides an outline of the first lecture of the course,
+  detailed lecture notes, and links to individual pages on sequencing, macromolecular
+  structure, cell function, and organization.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -8,6 +11,8 @@ parent_type: CourseSection
 parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 title: Introduction; Master Equation
 uid: 216ac03d-978d-1d2c-7137-b2b2dc3217ca
+video_metadata:
+  youtube_id: null
 ---
 
 Outline
@@ -31,7 +36,7 @@ CATEGORY
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-I. [Sequence]({{< baseurl >}}/pages/lecture-notes/introduction/sequence)
+I. {{% resource_link a9fa2cd4-689d-e1d6-7214-cb040f22e69d "Sequence" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 nucleic acids in DNA/RNA; amino-acids in proteins
@@ -43,7 +48,7 @@ information
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-II. [Structure]({{< baseurl >}}/pages/lecture-notes/introduction/structure)
+II. {{% resource_link 06996f09-b9fb-93f7-dfcb-f3eb09bbac1e "Structure" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 DNA double helix; RNA secondary form; protein folding
@@ -55,7 +60,7 @@ interactions
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-III. [Function]({{< baseurl >}}/pages/lecture-notes/introduction/function)
+III. {{% resource_link bd84241b-3e71-55c5-5518-9cc5ffe97d6d "Function" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 building blocks, force and motion: membranes, tubules, motors…
@@ -67,7 +72,7 @@ mechanisms
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-IV. [Assembly]({{< baseurl >}}/pages/lecture-notes/introduction/assembly)
+IV. {{% resource_link c9c7f5f1-1fd4-dccd-a6fa-45cb612a31aa "Assembly" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 networks: modules, patterns, collective dynamics…
@@ -92,4 +97,4 @@ Evolving Probabilities
     *   Steady state (binary distribution)
     *   Enzymatic analog
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec1))
+({{% resource_link "52cb8a2b-8e12-36dc-7077-ad1bdb4891c0" "Detailed Lecture Notes (PDF)" %}})

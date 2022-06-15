@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a lecture outline on biological networks with links
+  to related materials and detailed lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -8,11 +10,13 @@ parent_type: CourseSection
 parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 title: Introduction to Networks
 uid: 6f15f00d-644f-947d-0567-081f19c228be
+video_metadata:
+  youtube_id: null
 ---
 
 1.  Elements of networks:
     *   Nodes, links, subgraphs
-    *   [Network motifs](http://en.wikipedia.org/wiki/Network_motif) ([review by Uri Alon (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://wws.weizmann.ac.il/mcb/UriAlon/sites/mcb.UriAlon/files/network_motifs_nature_genetics_review.pdf) of transcription factor motifs)
+    *   [Network motifs](http://en.wikipedia.org/wiki/Network_motif) ([review by Uri Alon (PDF)](http://wws.weizmann.ac.il/mcb/UriAlon/sites/mcb.UriAlon/files/network_motifs_nature_genetics_review.pdf) of transcription factor motifs)
     *   [Random graphs](http://en.wikipedia.org/wiki/Random_graph) (Erdös-Rényi)
     *   Percolation ([Applet 1](http://www.physics.buffalo.edu/gonsalves/Java/Percolation.html), [Applet 2](http://www.ibiblio.org/e-notes/Perc/perc640.htm))
     *   Distance, Diameter, and Degree distribution
@@ -35,4 +39,4 @@ Some Related Links
 *   Albert, R., and A. L. Barabasi. "[Statistical Mehcanics of Complex Networks](http://rmp.aps.org/abstract/RMP/v74/i1/p47_1)." _RMP_ 74, no. 1 (2002): 47–97.
 *   Deeds, E.J., O. Ashenberg, and E.I. Shakhnovich. "[A simple physical model for scaling in protein-protein interaction networks](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1326177/)." _Proc Natl Acad Sci US__A_ 103, no. 2(2006):311-316.
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec22))
+({{% resource_link "8814a35e-67df-fbf1-9b17-7f6fc676b2df" "Detailed Lecture Notes (PDF)" %}})
