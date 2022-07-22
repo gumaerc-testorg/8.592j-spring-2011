@@ -1,9 +1,17 @@
 ---
 content_type: page
+description: This section provides a lecture outline on synchronization and morphogenesis
+  with links to related materials and detailed lecture notes.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 title: Dynamics on Networks 2
 uid: 48092cdf-d219-09b9-48dc-416f280084c8
+video_metadata:
+  youtube_id: null
 ---
 
 1.  Synchronization:
@@ -37,4 +45,4 @@ Some Related Links
 *   [Modelling Pigmentation Patterns](http://www.ma.hw.ac.uk/%7Epainter/research/pigmentation/fish.html)
 *   [The Alan Turing Internet Scrapbook Growth, Form and Crisis](http://www.turing.org.uk/turing/scrapbook/morph.html)
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec24))
+({{% resource_link "38f2f303-9f9e-a3d0-0a03-04e17ec85e5b" "Detailed Lecture Notes (PDF)" %}})

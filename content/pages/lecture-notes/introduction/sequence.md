@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This section contains a lecture outline with links to related materials
+  on biological information and evolution.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Introduction; Master Equation
+parent_type: CourseSection
 parent_uid: 216ac03d-978d-1d2c-7137-b2b2dc3217ca
 title: Sequence Information & Evolution
 uid: a9fa2cd4-689d-e1d6-7214-cb040f22e69d
+video_metadata:
+  youtube_id: null
 ---
 
 1.  Biological information:
@@ -28,4 +35,4 @@ uid: a9fa2cd4-689d-e1d6-7214-cb040f22e69d
     *   Gapped alignments
         *   dynamic programming (transfer matrix)
 
-[Back]({{< baseurl >}}/pages/lecture-notes/introduction)
+{{% resource_link 216ac03d-978d-1d2c-7137-b2b2dc3217ca "Back" %}}

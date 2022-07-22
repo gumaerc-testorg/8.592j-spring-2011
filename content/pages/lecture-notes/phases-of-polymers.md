@@ -1,9 +1,17 @@
 ---
 content_type: page
+description: This section provides a lecture outline and detailed lecture notes on
+  polymer theory, collapse, and random energy.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 title: Polymer Theory 2, Collapse, Random Energy Model
 uid: 1f389ec9-3b26-35e3-2805-53972bc6b3c5
+video_metadata:
+  youtube_id: null
 ---
 
 1.  Interacting polymers:
@@ -20,4 +28,4 @@ uid: 1f389ec9-3b26-35e3-2805-53972bc6b3c5
     *   The freezing transition and associated singularities
     *   Designed REM as a model of protein folding
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec11))
+({{% resource_link "341e3047-96bd-e8c0-4089-5e83d45706ea" "Detailed Lecture Notes (PDF)" %}})

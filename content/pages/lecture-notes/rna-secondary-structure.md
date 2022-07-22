@@ -1,9 +1,17 @@
 ---
 content_type: page
+description: This section contains a lecture outline on the structure and function
+  of DNA with links to related materials and detailed lecture notes.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 9e7f1aa8-38db-6648-8063-791ee60d518e
 title: RNA (Secondary Structure)
 uid: 7e9d23dd-2907-daae-4c1c-682e783daf0e
+video_metadata:
+  youtube_id: null
 ---
 
 1.  [Structure and function of RNA](http://en.wikipedia.org/wiki/RNA)
@@ -22,4 +30,4 @@ uid: 7e9d23dd-2907-daae-4c1c-682e783daf0e
 *   [The Zuker group's web-page](http://www.columbia.edu/cu/zukerlab/Zuker_Lab.html)
 *   [The Vienna RNA package](http://www.tbi.univie.ac.at/%7Eivo/RNA/)
 
-([Detailed Lecture Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit8_592js11_lec17))
+({{% resource_link "dfdcd6b8-46fc-2eee-b0a2-72c68bd5faa6" "Detailed Lecture Notes (PDF)" %}})

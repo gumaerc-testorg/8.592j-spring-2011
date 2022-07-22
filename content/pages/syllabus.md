@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course objectives, meeting times, readings, assignments, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 6c1bd7cc-2f3e-9e47-267c-21322f4bafa4
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -55,7 +61,7 @@ Assignments
 
 The homework assignments are an important part of this course, and the overall average homework score will count for 80% of the final grade. You may consult with classmates in "study groups," as long as you write out your own answers.
 
-The complete schedule of assignments (there will be 8) with due dates is available in the [calendar]({{< baseurl >}}/pages/calendar). Hyperlinks to the actual problem sets and solutions will be created as the term progresses. Problem sets are due by 5:00 pm on the due date. They can be turned in at lectures, or in to the appropriate office.
+The complete schedule of assignments (there will be 8) with due dates is available in the {{% resource_link ce0d6e3f-e7c9-c14b-e369-e3fb81fc1bec "calendar" %}}. Hyperlinks to the actual problem sets and solutions will be created as the term progresses. Problem sets are due by 5:00 pm on the due date. They can be turned in at lectures, or in to the appropriate office.
 
 No problem sets will be accepted after the solutions have been provided. Late problem sets (before solutions are provided) may be accepted (with legitimate excuses) for a reduced grade as the discretion of the instructors.
 

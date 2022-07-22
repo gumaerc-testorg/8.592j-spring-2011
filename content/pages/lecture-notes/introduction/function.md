@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This section contains a lecture outline with links to related materials
+  on cell function.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Introduction; Master Equation
+parent_type: CourseSection
 parent_uid: 216ac03d-978d-1d2c-7137-b2b2dc3217ca
 title: 'Function (Force & Motion) '
 uid: bd84241b-3e71-55c5-5518-9cc5ffe97d6d
+video_metadata:
+  youtube_id: null
 ---
 
 1.  Cell structure elements:
@@ -26,4 +33,4 @@ uid: bd84241b-3e71-55c5-5518-9cc5ffe97d6d
     *   Crawling cells
         *   Propulsion by actin polymerization
 
-[Back]({{< baseurl >}}/pages/lecture-notes/introduction)
+{{% resource_link 216ac03d-978d-1d2c-7137-b2b2dc3217ca "Back" %}}
