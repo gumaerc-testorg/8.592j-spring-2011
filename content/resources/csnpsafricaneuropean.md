@@ -5,6 +5,7 @@ file: /courses/8-592j-statistical-physics-in-biology-spring-2011/eaf7a7e89f3a8da
 file_type: chemical/x-mopac-input
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a special file of cSNPsAfricanEuropean.
-

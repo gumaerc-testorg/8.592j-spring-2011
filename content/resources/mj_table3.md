@@ -5,6 +5,7 @@ file: /courses/8-592j-statistical-physics-in-biology-spring-2011/1b821d36380d4de
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains text for assignment section.
-

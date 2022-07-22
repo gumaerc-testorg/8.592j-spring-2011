@@ -5,6 +5,7 @@ file: /courses/8-592j-statistical-physics-in-biology-spring-2011/5253e8ec9c66924
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

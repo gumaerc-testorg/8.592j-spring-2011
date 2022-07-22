@@ -5,6 +5,7 @@ file: /courses/8-592j-statistical-physics-in-biology-spring-2011/f25f971b34b52db
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2EBN.PDB
 uid: f25f971b-34b5-2db0-f65f-86a607197a30
 ---
 Software commands necessary for completing Assignment #5.
-

@@ -5,6 +5,7 @@ file: /courses/8-592j-statistical-physics-in-biology-spring-2011/4cf3c60d4f4c6d8
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 4HHB_A.PDB
 uid: 4cf3c60d-4f4c-6d84-dd40-063a8e36c49a
 ---
 Software commands necessary for completing Assignment #5.
-
