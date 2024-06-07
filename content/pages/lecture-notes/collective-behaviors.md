@@ -16,7 +16,6 @@ video_metadata:
 ---
 1. Synchronization:
     - Examples: [firefly](http://ase.tufts.edu/biology/Firefly/#Light), [fireflies](http://www.youtube.com/watch?v=sROKYelaWbo), [heart pacemaker cells](http://en.wikipedia.org/wiki/Cardiac_pacemaker), [cicada](http://en.wikipedia.org/wiki/Cicada)
-    - The Kuramoto model ([Java Applet](http://www.ffn.ub.es/%7Ealbert/applets/Kuramoto.html) by Albert Diaz-Guilera) ([Cactus Applet](http://labs.sharengo.org/india/html/APPLET/JAVA/LEROYMERLIN/DATA/PRODUITS/DECO/CACTUS/))
     - Collective synchronization
 2. Biological Patterns:
     - [**Morphogenesis**](http://en.wikipedia.org/wiki/Morphogenesis) is the process whereby a living organism develops form and structure, e.g.

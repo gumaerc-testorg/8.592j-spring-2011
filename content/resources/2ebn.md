@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Software commands necessary for completing Assignment #5.'
 file: /courses/8-592j-statistical-physics-in-biology-spring-2011/f25f971b34b52db0f65f86a607197a30_2EBN.PDB
+file_size: 159449
 file_type: text/plain
 learning_resource_types:
 - Assignments

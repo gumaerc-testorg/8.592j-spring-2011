@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-592j-statistical-physics-in-biology-spring-2011/52cb8a2b8e1236dc7077ad1bdb4891c0_MIT8_592JS11_lec1.pdf
+file_size: 149949
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
