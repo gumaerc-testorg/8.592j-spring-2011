@@ -16,16 +16,16 @@ video_metadata:
 ---
 ## Molecular Motors
 
-1. [Molecular motors](http://en.wikipedia.org/wiki/Molecular_motors):    
+1. [Molecular motors](http://en.wikipedia.org/wiki/Molecular_motors):     
       
     - [Kinesin](http://en.wikipedia.org/wiki/Kinesin) and [Dynein](http://en.wikipedia.org/wiki/Dynein) move in opposite directions along microtubules [consuming ATP](http://en.wikipedia.org/wiki/Adenosine_triphosphate)
     - [Myosin](http://en.wikipedia.org/wiki/Myosin) moves on [actin filaments](http://web.archive.org/web/20170127130248/http://www.rpi.edu/dept/bcbp/molbiochem/MBWeb/mb2/part1/actin.htm)
     - Animation of motion of kinesin on a microtubule
-2. General scheme of motor transport:    
+2. General scheme of motor transport:     
       
     - Asymmetry for directionality
     - Rectification of fluctuations by consumption of energy
-3. Motion in a noisy environment    
+3. Motion in a noisy environment     
       
      
 
@@ -63,7 +63,7 @@ A Brownian ratchet (Image from [Wikimedia Commons](http://en.wikipedia.org/wiki/
 ## Cell Motion
 
 1. [Brownian motion](http://www.mit.edu/%7Ekardar/research/seminars/motility/BBrownian.html): 
-    - Movies of [milk droplets in water](http://www.microscopy-uk.org.uk/dww/home/hombrown.htm), [DNA tethered bead](http://www.bio.brandeis.edu/%7Egelles/movies_stall.html)
+    - Movies of [milk droplets in water](http://www.microscopy-uk.org.uk/dww/home/hombrown.htm)
     - [Animated simulation](http://www.mat.ucsb.edu/%7Eb.sturm/BrownSound/) (see also [Applet 1](http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Brownian/brownian.html), [Applet 2](http://www.ms.uky.edu/%7Emai/java/stat/brmo.html))
     - Langevin description
     - Fokker-Planck description

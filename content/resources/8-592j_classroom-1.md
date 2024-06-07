@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-592j-statistical-physics-in-biology-spring-2011/693a145be81ab6dec5fc9c7e66f7379a_8-592J_classroom-1.png
+file_size: 92448
 file_type: image/png
 image_metadata:
   caption: ''

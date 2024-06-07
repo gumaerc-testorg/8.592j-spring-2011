@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a special file of cSNPsAfricanEuropeanType.
 file: /courses/8-592j-statistical-physics-in-biology-spring-2011/f61eca1ae824f675f4c3b36406c4b4a8_cSNPsAfricanEuropeanType.dat
+file_size: 446337
 file_type: chemical/x-mopac-input
 learning_resource_types:
 - Assignments
