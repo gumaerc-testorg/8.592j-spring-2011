@@ -22,6 +22,6 @@ There are also several online biology resources that might be useful:
 
 [Kimball's Biology Pages](https://www.biology-pages.info/)
 
-[Molecular Biology Web Book](http://www.web-books.com/MoBio/)
+[Molecular Biology Web Book](https://www.sciencedirect.com/book/9780128132883/molecular-biology)
 
 [An On-Line Biology Book](http://www2.estrellamountain.edu/faculty/farabee/biobk/biobooktoc.html)
