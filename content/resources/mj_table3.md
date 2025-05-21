@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains text for assignment section.
-file: /ol-ocw-studio-app/courses/8-592j-statistical-physics-in-biology-spring-2011/1b821d36380d4de6f2270eb875336417_mj_table3.pdf
+file: /courses/8-592j-statistical-physics-in-biology-spring-2011/1b821d36380d4de6f2270eb875336417_mj_table3.pdf
 file_size: 11122
 file_type: application/pdf
 learning_resource_types:

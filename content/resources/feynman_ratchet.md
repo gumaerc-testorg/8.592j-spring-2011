@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-592j-statistical-physics-in-biology-spring-2011/70bbd1ea1d50d0f3b5862d205ef19c6c_Feynman_ratchet.jpg
+file: /courses/8-592j-statistical-physics-in-biology-spring-2011/70bbd1ea1d50d0f3b5862d205ef19c6c_Feynman_ratchet.jpg
 file_size: 42511
 file_type: image/jpeg
 image_metadata:

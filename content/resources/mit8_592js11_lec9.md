@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-592j-statistical-physics-in-biology-spring-2011/fe187ed98a8d727fd3bc502e44038836_MIT8_592JS11_lec9.pdf
+file: /courses/8-592j-statistical-physics-in-biology-spring-2011/fe187ed98a8d727fd3bc502e44038836_MIT8_592JS11_lec9.pdf
 file_size: 133056
 file_type: application/pdf
 learning_resource_types:
