@@ -16,16 +16,16 @@ video_metadata:
 ---
 ## Molecular Motors
 
-1. [Molecular motors](http://en.wikipedia.org/wiki/Molecular_motors):     
+1. [Molecular motors](http://en.wikipedia.org/wiki/Molecular_motors):      
       
     - [Kinesin](http://en.wikipedia.org/wiki/Kinesin) and [Dynein](http://en.wikipedia.org/wiki/Dynein) move in opposite directions along microtubules [consuming ATP](http://en.wikipedia.org/wiki/Adenosine_triphosphate)
     - [Myosin](http://en.wikipedia.org/wiki/Myosin) moves on [actin filaments](http://web.archive.org/web/20170127130248/http://www.rpi.edu/dept/bcbp/molbiochem/MBWeb/mb2/part1/actin.htm)
     - Animation of motion of kinesin on a microtubule
-2. General scheme of motor transport:     
+2. General scheme of motor transport:      
       
     - Asymmetry for directionality
     - Rectification of fluctuations by consumption of energy
-3. Motion in a noisy environment     
+3. Motion in a noisy environment      
       
      
 
@@ -37,7 +37,7 @@ A Brownian ratchet (Image from [Wikimedia Commons](http://en.wikipedia.org/wiki/
 
 - [Feynman's ratchet and pawl](http://en.wikipedia.org/wiki/Brownian_ratchet):
 - [Simulation of a Brownian motor](http://www.elmer.unibas.ch/bm/index.html)
-- From the [web-page of George Oster](http://www.cnr.berkeley.edu/%7Egoster/home.html):
+- From the [web-page of George Oster](https://en.wikipedia.org/wiki/George_Oster):
     - Wang, H., and G. Oster. ["Ratchets, power strokes, and molecular motors." (PDF)](https://www.worldcat.org/title/5648393986) *Applied Physics A* 75, no. 315 (2002).
     - Bustamante, C., D. Keller, et al. ["The Physics of Molecular Motors." (PDF)](https://pubs.acs.org/doi/pdf/10.1021/ar0001719?rand=guxjvfkd) *Acc. Chem. Res.* 34, no. 412 (2001).
 
@@ -50,7 +50,7 @@ A Brownian ratchet (Image from [Wikimedia Commons](http://en.wikipedia.org/wiki/
 ## Some Related Links
 
 - [Kinesin Home Page](https://sites.duke.edu/kinesin/)
-- [Dynein Home Page](http://www.dynein.leeds.ac.uk/)
+- [Dynein Home Page](https://en.wikipedia.org/wiki/Dynein)
 - [Myosin Home Page](https://en.wikipedia.org/wiki/Myosin)
 - [Kinesin Motors—the Movies](https://sites.duke.edu/kinesin/kinesin-motors-movies/)
 - [Vale lab movies (e.g. MT gliding)](http://valelab.ucsf.edu/)
@@ -64,7 +64,7 @@ A Brownian ratchet (Image from [Wikimedia Commons](http://en.wikipedia.org/wiki/
 
 1. [Brownian motion](http://www.mit.edu/%7Ekardar/research/seminars/motility/BBrownian.html): 
     - Movies of [milk droplets in water](http://www.microscopy-uk.org.uk/dww/home/hombrown.htm)
-    - [Animated simulation](http://www.mat.ucsb.edu/%7Eb.sturm/BrownSound/) (see also [Applet 1](http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Brownian/brownian.html), [Applet 2](http://www.ms.uky.edu/%7Emai/java/stat/brmo.html))
+    - [Animated simulation](https://physics.bu.edu/~duffy/HTML5/brownian_motion.html) (see also [Applet 1](http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/Brownian/brownian.html), [Applet 2](http://www.ms.uky.edu/%7Emai/java/stat/brmo.html))
     - Langevin description
     - Fokker-Planck description
     - Thermal equilibrium and the Einsten relation
