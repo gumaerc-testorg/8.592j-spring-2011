@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-592j-statistical-physics-in-biology-spring-2011/702eabd352f88d3f8f2b5d3545fdf826_8-592J_stat-students.png
+file: /ol-ocw-studio-app/courses/8-592j-statistical-physics-in-biology-spring-2011/702eabd352f88d3f8f2b5d3545fdf826_8-592J_stat-students.png
 file_size: 2804
 file_type: image/png
 image_metadata:
