@@ -16,16 +16,16 @@ video_metadata:
 ---
 ## Molecular Motors
 
-1. [Molecular motors](http://en.wikipedia.org/wiki/Molecular_motors):      
+1. [Molecular motors](http://en.wikipedia.org/wiki/Molecular_motors):       
       
     - [Kinesin](http://en.wikipedia.org/wiki/Kinesin) and [Dynein](http://en.wikipedia.org/wiki/Dynein) move in opposite directions along microtubules [consuming ATP](http://en.wikipedia.org/wiki/Adenosine_triphosphate)
     - [Myosin](http://en.wikipedia.org/wiki/Myosin) moves on [actin filaments](http://web.archive.org/web/20170127130248/http://www.rpi.edu/dept/bcbp/molbiochem/MBWeb/mb2/part1/actin.htm)
     - Animation of motion of kinesin on a microtubule
-2. General scheme of motor transport:      
+2. General scheme of motor transport:       
       
     - Asymmetry for directionality
     - Rectification of fluctuations by consumption of energy
-3. Motion in a noisy environment      
+3. Motion in a noisy environment       
       
      
 
@@ -53,7 +53,6 @@ A Brownian ratchet (Image from [Wikimedia Commons](http://en.wikipedia.org/wiki/
 - [Dynein Home Page](https://en.wikipedia.org/wiki/Dynein)
 - [Myosin Home Page](https://en.wikipedia.org/wiki/Myosin)
 - [Kinesin Motors—the Movies](https://sites.duke.edu/kinesin/kinesin-motors-movies/)
-- [Vale lab movies (e.g. MT gliding)](http://valelab.ucsf.edu/)
 - [The inner life of a cell](http://www.studiodaily.com/main/technique/tprojects/6850.html)
 - Lecture at Delft by Gerrit E.W. Bauer 
 - Capturing and viewing single molecules:

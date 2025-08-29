@@ -14,8 +14,6 @@ There are many excellent resources on the Web; the following links provide backg
 
 [ITP Program on Bioinformatics](http://www.bic.kyoto-u.ac.jp/itp/)
 
-[A course by Prof. Goldenfeld on Statistical Physics of Biological Information and Complexity](http://guava.physics.uiuc.edu/~nigel/courses/598BIO/)
-
 [Berkeley Biophysics Group](http://biophysics.berkeley.edu/)
 
 There are also several online biology resources that might be useful:
