@@ -23,4 +23,4 @@ video_metadata:
 Some Related Links
 ------------------
 
-*   [Tutorial on Hemoglobin](http://higheredbcs.wiley.com/legacy/college/boyer/0471661791/structure/HbMb/hbmb.htm)
+*   {{% resource_link "8410dd0e-738b-4a3e-adcc-b6c0b0f8e6e5" "Tutorial on Hemoglobin" %}}
