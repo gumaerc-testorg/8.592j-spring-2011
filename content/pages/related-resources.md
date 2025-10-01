@@ -12,14 +12,14 @@ video_metadata:
 ---
 There are many excellent resources on the Web; the following links provide background and useful information:
 
-[ITP Program on Bioinformatics](http://www.bic.kyoto-u.ac.jp/itp/)
+{{% resource_link "2a12c7fa-67f7-4f1a-bfa9-f0888597c1fc" "ITP Program on Bioinformatics" %}}
 
-[Berkeley Biophysics Group](http://biophysics.berkeley.edu/)
+{{% resource_link "ea59f9f2-2ee2-4a94-9423-61708c6cabaa" "Berkeley Biophysics Group" %}}
 
 There are also several online biology resources that might be useful:
 
-[Kimball's Biology Pages](https://www.biology-pages.info/)
+{{% resource_link "0ac65d6f-7c61-4988-89f0-6f915e5c8c6a" "Kimball's Biology Pages" %}}
 
-[Molecular Biology Web Book](https://www.sciencedirect.com/book/9780128132883/molecular-biology)
+{{% resource_link "224b99c1-1262-468e-b7f3-8bf5d6cd7352" "Molecular Biology Web Book" %}}
 
-[An On-Line Biology Book](http://www2.estrellamountain.edu/faculty/farabee/biobk/biobooktoc.html)
+{{% resource_link "5b3c5662-ebb4-4df9-84dd-d8bb851c5c76" "An On-Line Biology Book" %}}
