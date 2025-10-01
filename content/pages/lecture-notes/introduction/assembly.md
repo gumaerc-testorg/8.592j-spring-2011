@@ -27,8 +27,8 @@ video_metadata:
     - Fixed points and stability
         - Hopfield neural network
     - Cycles
-        - [The Belousov-Zhabotinsky Reaction](http://www.scholarpedia.org/article/Belousov-Zhabotinsky_reaction)
-        - Biological clocks (animations from HMMI: [The Drosophila Molecular Clock Model](http://www.hhmi.org/biointeractive/drosophila-molecular-clock-model))
+        - {{% resource_link "888f258c-848a-4461-b960-4ea17a2020f3" "The Belousov-Zhabotinsky Reaction" %}}
+        - Biological clocks (animations from HMMI: {{% resource_link "26c96d2b-a90d-4aa8-86f1-b444c8bd9c47" "The Drosophila Molecular Clock Model" %}})
 3. Biological patterns:
     - Turing instability
     - Cortical patterns
