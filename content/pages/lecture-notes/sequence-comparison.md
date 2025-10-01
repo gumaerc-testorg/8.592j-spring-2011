@@ -15,7 +15,7 @@ video_metadata:
 ---
 
 1.  Sequence comparison
-    1.  Protein sequences: [amino acids](http://jenalib.fli-leibniz.de/IMAGE_AA.html) and their properties
+    1.  Protein sequences: {{% resource_link "b4ba7ef2-da86-42cd-85ee-e2e0553ae895" "amino acids" %}} and their properties
     2.  Why do we need to compare sequences?
         *   Find dissimilarities
         *   Similar sequences = similar properties
@@ -23,13 +23,13 @@ video_metadata:
     3.  Mutations -> Gapless alignments
     4.  Mutations, insertions and deletions -> Gapped alignment
 2.  Sequence alignments
-    1.  [Score = edit distance](http://www.cs.princeton.edu/courses/archive/spr05/cos126/assignments/sequence.html)
+    1.  {{% resource_link "e67d4713-a233-4fa0-a359-1697cbb4895b" "Score = edit distance" %}}
     2.  Examples of scores
     3.  Length of alignment, number of alignments
 3.  Algorithms for sequence alignments
     1.  Dynamics programming
     2.  Example
     3.  Global and Local alignments
-4.  [BLAST](http://www.ncbi.nlm.nih.gov/BLAST/)
+4.  {{% resource_link "e169c8ea-a442-4086-b43e-27bf05891b43" "BLAST" %}}
     1.  How it works
     2.  Examples
