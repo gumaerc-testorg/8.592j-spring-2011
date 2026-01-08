@@ -48,7 +48,7 @@ The .fna file below contains the nucleic acid sequence of _E. coli_ in the FASTA
 {{< tdopen >}}
 
 
-Altschul, S.F., et al. “{{% resource_link "ac4c40cc-ac04-400c-9431-79f1ae6d6039" "Gapped BLAST and PSI-BLAST: a new generation of protein database search programs" %}}.” _Nucleic Acids Res._ 25, no. 17 (1997): 3389-402.
+Altschul, S.F., et al. “[Gapped BLAST and PSI-BLAST: a new generation of protein database search programs](http://www.ncbi.nlm.nih.gov/pubmed/9254694).” _Nucleic Acids Res._ 25, no. 17 (1997): 3389-402.
 
 
 {{< tdclose >}}
@@ -81,7 +81,7 @@ Altschul, S.F., et al. “{{% resource_link "ac4c40cc-ac04-400c-9431-79f1ae6d603
 {{% resource_link "f25f971b-34b5-2db0-f65f-86a607197a30" "2EBN.PDB (PDB)" %}}  
 {{% resource_link "4cf3c60d-4f4c-6d84-dd40-063a8e36c49a" "4HHB\_A.PDB (PDB)" %}}  
   
-Miyazawa, Sanzo, and Robert L. Jernigan (MJ). "{{% resource_link "b2268306-a26c-4c8f-bac5-b319ed752915" "Residue–Residue Potentials with a Favorable Contact Pair Term and an Unfavorable High Packing Density Term, for Simulation and Threading." %}}" _J. Mol Biol._ 256, no. 3 (1996): 623-44.  
+Miyazawa, Sanzo, and Robert L. Jernigan (MJ). "[Residue–Residue Potentials with a Favorable Contact Pair Term and an Unfavorable High Packing Density Term, for Simulation and Threading.](http://www.ncbi.nlm.nih.gov/pubmed/8604144)" _J. Mol Biol._ 256, no. 3 (1996): 623-44.  
   
 {{% resource_link 1b821d36-380d-4de6-f227-0eb875336417 "MJ Interaction Table (3) (PDF)" %}}
 {{< tdclose >}}
@@ -94,9 +94,9 @@ Miyazawa, Sanzo, and Robert L. Jernigan (MJ). "{{% resource_link "b2268306-a26c-
 {{< tdopen >}}
 
 
-{{% resource_link "c5d9f81f-29b5-4976-9fcc-4fe0133aad98" "The RNA Puller @ Ohio-State University" %}}
+[The RNA Puller @ Ohio-State University](http://bioserv.mps.ohio-state.edu/rna/)
 
-Smith, S.B., et al. "{{% resource_link "ded2335d-6ca1-44df-a87a-ca6dd0c46b45" "Overstretching B-DNA: The Elastic Response of Individual Double-Stranded and Single-Stranded DNA Molecules" %}}." _Science_ 271 no. 5250 (1996): 795–9.
+Smith, S.B., et al. "[Overstretching B-DNA: The Elastic Response of Individual Double-Stranded and Single-Stranded DNA Molecules](http://www.ncbi.nlm.nih.gov/pubmed/8628994)." _Science_ 271 no. 5250 (1996): 795–9.
 
 
 {{< tdclose >}}

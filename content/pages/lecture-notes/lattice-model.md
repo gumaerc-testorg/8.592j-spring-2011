@@ -17,7 +17,7 @@ video_metadata:
 1.  Review of protein structure
 2.  Protein Folding Problem(s)
     *   Predict the native structure, given the sequence
-        *   {{% resource_link "421f68c2-854e-4239-9477-003999935cf0" "Sequence-structure mapping and fold prediction" %}}
+        *   [Sequence-structure mapping and fold prediction](http://www.mit.edu/~kardar/teaching/IITS/lectures/lec4/FoldPrediction.jpg)
 3.  Lattice Model
 4.  Designed sequence
 5.  Monte Carlo sequence design, detailed balance

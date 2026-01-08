@@ -15,7 +15,7 @@ video_metadata:
 ---
 
 1.  Substitution Matrices
-    1.  {{% resource_link "e5442aaa-1fee-467d-8949-193a42a95ca5" "PAM" %}}
-2.  {{% resource_link "e169c8ea-a442-4086-b43e-27bf05891b43" "BLAST" %}}
+    1.  [PAM](http://en.wikipedia.org/wiki/Point_accepted_mutation)
+2.  [BLAST](http://www.ncbi.nlm.nih.gov/BLAST/)
     1.  How it works
     2.  Examples

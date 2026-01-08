@@ -17,28 +17,28 @@ video_metadata:
 1. Ionic solutions:
     - Why do electrolytes dissociate (ionize) in water?
     - The bare Coulomb interaction and the Bjerrum length
-    - {{% resource_link "445efc7f-cd0c-4b3d-8585-7cae745d9a23" "Acids, bases, and salts" %}}
+    - [Acids, bases, and salts](http://www.shodor.org/unchem/basic/ab/)
     - The importance of Coulomb repulsion in biological systems
     - Macroions, counterions, salt ions
     - Restricted partition function
 2. Statistical treatments of ionic solutions:
-    - 'Mean-field' potential and charge density via the self-consistent {{% resource_link "9862b9cd-65f0-447f-bd77-96471c63d8ff" "Poisson-Boltzmann equation" %}}
+    - 'Mean-field' potential and charge density via the self-consistent [Poisson-Boltzmann equation](http://en.wikipedia.org/wiki/Poisson-Boltzmann_equation)
     - Screening in salt solutions
         - Linearized Poisson-Boltzman
-        - {{% resource_link "326ab390-b2f2-433a-b1a3-2baa0c3fa411" "Debye-Hückel theory" %}}
+        - [Debye-Hückel theory](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Physical_Properties_of_Matter/Solutions_and_Mixtures/Nonideal_Solutions/Debye-H%C3%BCckel)
     - Dissociation from a charged membrane
         - Solution of the 1d equation
         - The Gouy-Chapman layer
     - Interaction between charged parallel plates
-    - Importance of fluctuations; {{% resource_link "994a4dd9-9437-4606-89d4-3e073f8880ae" "like charges can attract" %}}
+    - Importance of fluctuations; [like charges can attract](http://physics.aps.org/story/v6/st25)
 
 ## Some Related Links
 
-- Gelbart, et al. {{% resource_link "dc8b1774-b817-4ecb-a2e6-5edf95b15122" "DNA-Inspired Electrostatics." %}} *Physics Today* 53, no. 9 (2000): 38.
-- {{% resource_link "ca24d06e-c747-4e1f-9d82-40be6528c740" "Electrostatics in DNA-peptide complexes" %}}; from a course on Principles of Protein Structure.
-- Bustamante, et al. {{% resource_link "a2054d2c-fc9a-43d6-937b-d375d66da541" "Ten Years of Tension: Single-molecule DNA Mechanic" %}}. *Nature* 421 (2003): 423–7.
-- On {{% resource_link "c61b0b0f-46c8-44c2-8f46-ed69efd14a58" "Electrostatic Screening" %}}; {{% resource_link "5d7d28f4-18ad-44d2-bf00-165d041db94b" "John Marko" %}} at Northwestern.
-- On {{% resource_link "aea8a33b-d275-41af-a6bf-1dd35791b044" "DNA elasticity" %}}; {{% resource_link "a0b53b65-50e5-4e1e-98ca-3e2dc8f7ec6a" "Philip Nelson" %}} at UPenn.
-- {{% resource_link "788e16ee-6265-48ba-ac06-d659969b35b6" "The residual potential" %}}; {{% resource_link "1ca4ca3a-86d8-4f42-bdf9-98d0d2a35b8c" "Bruce Tidor" %}} at MIT.
+- Gelbart, et al. [DNA-Inspired Electrostatics.](https://doi.org/10.1063/1.1325230) *Physics Today* 53, no. 9 (2000): 38.
+- [Electrostatics in DNA-peptide complexes](http://www.cryst.bbk.ac.uk/PPS2/projects/soler/project.html); from a course on Principles of Protein Structure.
+- Bustamante, et al. [Ten Years of Tension: Single-molecule DNA Mechanic](http://dx.doi.org/10.1038/nature01405). *Nature* 421 (2003): 423–7.
+- On [Electrostatic Screening](https://aip.scitation.org/doi/pdf/10.1063/1.522539); [John Marko](http://markolab.bmbcb.northwestern.edu/marko/) at Northwestern.
+- On [DNA elasticity](http://dept.physics.upenn.edu/%7Epcn/mcgraw2/mcglatex.html); [Philip Nelson](http://www.physics.upenn.edu/%7Epcn/) at UPenn.
+- [The residual potential](http://web.mit.edu/tidor/www/residual/index.html); [Bruce Tidor](http://web.mit.edu/tidor/www/index.html) at MIT.
 
 ({{% resource_link "fe187ed9-8a8d-727f-d3bc-502e44038836" "Detailed Lecture Notes (PDF)" %}})
